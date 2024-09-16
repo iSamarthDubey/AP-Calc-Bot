@@ -32,7 +32,7 @@ async def calculate(update: Update, context) -> None:
 
 async def main():
     # Create the application
-    application = Application.builder().token("7432759523:AAHaIa7pCsd94ATzNTUgNZBCwkkaZxbkZz0").build()
+    application = Application.builder().token(API_TOKEN).build()
 
     # Register handlers
     application.add_handler(CommandHandler("start", start))
