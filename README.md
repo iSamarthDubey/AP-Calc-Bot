@@ -1,7 +1,3 @@
-# AP-Calc-Telegram-Bot
-This Telegram bot calculates the nth term of an arithmetic progression (AP) based on the values provided by the user.
-Here's the GitHub README.md content ready for you to copy and paste directly into your project:
-
 ---
 
 # Telegram Arithmetic Progression Bot
