@@ -42,8 +42,8 @@ pip install python-telegram-bot --upgrade
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telegram-ap-bot.git
-cd telegram-ap-bot
+git clone https://github.com/iSamarthDubey/AP-Calc-Bot.git
+cd AP-Calc-Bot
 ```
 
 ### 2. Set up the Bot
